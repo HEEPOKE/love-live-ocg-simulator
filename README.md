@@ -35,5 +35,5 @@ For example, `core:clean` removes `build` folder only from the `core` project.
 # run
 
 ```bash
-gradlew.bat lwjgl3:run
+./gradlew.bat lwjgl3:run
 ```
